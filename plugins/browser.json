@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.codeshark.deviceapp"
+        }
+    }
+}
